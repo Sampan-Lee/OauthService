@@ -1,0 +1,33 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>JiYun.NordicTourism.API</name>
+    </assembly>
+    <members>
+        <member name="T:JiYun.NordicTourism.API.Controllers.DefaultController">
+            <summary>
+            Default控制器
+            </summary>
+        </member>
+        <member name="M:JiYun.NordicTourism.API.Controllers.DefaultController.get">
+            <summary>
+            测试方法
+            </summary>
+            <returns></returns>
+        </member>
+        <member name="M:JiYun.NordicTourism.API.CachingSwaggerProvider.GetControllerDesc">
+            <summary>
+            从API文档中读取控制器描述
+            </summary>
+            <returns>所有控制器描述</returns>
+        </member>
+        <member name="M:JiYun.NordicTourism.API.Swagger.HttpAuthHeaderFilter.Apply(Swashbuckle.Swagger.Operation,Swashbuckle.Swagger.SchemaRegistry,System.Web.Http.Description.ApiDescription)">
+            <summary>
+            应用
+            </summary>
+            <param name="operation"></param>
+            <param name="schemaRegistry"></param>
+            <param name="apiDescription"></param>
+        </member>
+    </members>
+</doc>
